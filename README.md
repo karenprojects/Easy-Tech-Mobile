@@ -9,6 +9,6 @@ Dificuldade em encontrar clínicas conveniadas que aceitem o plano e o convênio
 Solução Proposta: 
 Criar um aplicativo mais intuitivo e eficiente, que inclua uma lista das melhores clínicas e ofereça um processo de agendamento rápido e simplificado.
 <br/>
-Comandos para rodar aplicação:
+Comandos para rodar aplicação:<br/>
 npm install, <br/>
 npm run start
