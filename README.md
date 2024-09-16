@@ -10,5 +10,5 @@ Solução Proposta:
 Criar um aplicativo mais intuitivo e eficiente, que inclua uma lista das melhores clínicas e ofereça um processo de agendamento rápido e simplificado.
 
 Comandos para rodar aplicação:
-npm install
+npm install, 
 npm run start
