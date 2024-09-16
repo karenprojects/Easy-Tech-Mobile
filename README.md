@@ -13,3 +13,8 @@ Criação de um aplicativo mais intuitivo e eficiente, que inclua uma lista das 
 **Comandos para rodar aplicação:**<br/>
 npm install <br/>
 npm run start
+
+
+**Diagrama de arquitetura (estrutura de pastas)**
+
+![image](https://github.com/user-attachments/assets/6e78e0c8-e1dd-41b3-a8e7-56cc1d44b8ac)
